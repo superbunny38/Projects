@@ -7,3 +7,4 @@
 - Decision Tree Classifier
 - KNN/K-means
 - Explainable Boosting Machine
+- Shap + XGBoost
