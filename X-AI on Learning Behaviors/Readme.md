@@ -8,7 +8,7 @@
 - Random Forest
 - Decision Tree Classifier
 - KNN/K-means
-- Explainable Boosting Machine
+- **Explainable Boosting Machine (train acc: 0.9404, test acc: 0.9069)**
 - Shap + XGBoost
 - NODE-GAM
 - NAM
