@@ -10,3 +10,5 @@
 - KNN/K-means
 - Explainable Boosting Machine
 - Shap + XGBoost
+- NODE-GAM
+- NAM
