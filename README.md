@@ -4,3 +4,4 @@
 - Competitions: Kaggle, Dacon 등 각종 대회 참여했을 때의 결과물 및 코드
 - Blood Pressure Estimation: 수축기 혈압과 이완기 혈압을 활용해 혈압 상태를 라벨링한 후 이를 Deep Learning과 ML models로 분류하는 프로젝트
 - X-AI: Research paper on applying X-AI for the analysis of learning behaviors
+- Friend Matching Score Calculation & Recommendation System: 그래프 구조를 이용하여 친구 간 궁합 점수 계산과 친구 추천을 해주는 프로그램
