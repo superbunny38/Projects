@@ -12,6 +12,7 @@
 - Shap + XGBoost
 - NODE-GAM
 - NAM
+- pyGAM
 
 Generalized Additive Model Ref:
 https://pygam.readthedocs.io/en/latest/notebooks/tour_of_pygam.html
