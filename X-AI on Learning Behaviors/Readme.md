@@ -1,6 +1,6 @@
 # Explainable AI to analyze Learning Behaviors during pandemic
 
-**Codes will be released after publishing the paper**
+**Codes will be released after the paper is published**
 
 # Models
 
